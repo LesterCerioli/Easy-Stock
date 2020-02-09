@@ -1,0 +1,3 @@
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Domain\obj\Debug\netcoreapp3.0\EasyStock.Domain.csprojAssemblyReference.cache
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Domain\obj\Debug\netcoreapp3.0\EasyStock.Domain.AssemblyInfoInputs.cache
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Domain\obj\Debug\netcoreapp3.0\EasyStock.Domain.AssemblyInfo.cs

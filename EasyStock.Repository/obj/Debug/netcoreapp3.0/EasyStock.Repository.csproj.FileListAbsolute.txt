@@ -1,0 +1,8 @@
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\bin\Debug\netcoreapp3.0\EasyStock.Repository.deps.json
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\bin\Debug\netcoreapp3.0\EasyStock.Repository.dll
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\bin\Debug\netcoreapp3.0\EasyStock.Repository.pdb
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\obj\Debug\netcoreapp3.0\EasyStock.Repository.csprojAssemblyReference.cache
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\obj\Debug\netcoreapp3.0\EasyStock.Repository.AssemblyInfoInputs.cache
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\obj\Debug\netcoreapp3.0\EasyStock.Repository.AssemblyInfo.cs
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\obj\Debug\netcoreapp3.0\EasyStock.Repository.dll
+D:\Repositories\Azure LC\NovoStock\EasyStock\EasyStock.Repository\obj\Debug\netcoreapp3.0\EasyStock.Repository.pdb
