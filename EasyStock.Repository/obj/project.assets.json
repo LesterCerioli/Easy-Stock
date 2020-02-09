@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Azure LC\\EasyStock\\EasyStock.Repository\\EasyStock.Repository.csproj",
+      "projectUniqueName": "D:\\Repositories\\Azure LC\\NovoStock\\EasyStock\\EasyStock.Repository\\EasyStock.Repository.csproj",
       "projectName": "EasyStock.Repository",
-      "projectPath": "D:\\Repositories\\Azure LC\\EasyStock\\EasyStock.Repository\\EasyStock.Repository.csproj",
+      "projectPath": "D:\\Repositories\\Azure LC\\NovoStock\\EasyStock\\EasyStock.Repository\\EasyStock.Repository.csproj",
       "packagesPath": "C:\\Users\\Diretoria2018\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Azure LC\\EasyStock\\EasyStock.Repository\\obj\\",
+      "outputPath": "D:\\Repositories\\Azure LC\\NovoStock\\EasyStock\\EasyStock.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
