@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EasyStock.Domain.Entities
 {
-    public class Provider : Entity
+    public class Product : Entity
     {
         public override void Validate()
         {
