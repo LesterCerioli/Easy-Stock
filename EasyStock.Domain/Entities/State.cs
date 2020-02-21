@@ -6,9 +6,12 @@ namespace EasyStock.Domain.Entities
 {
     public class State : Entity
     {
+
         public override void Validate()
         {
             throw new NotImplementedException();
         }
+                                 
+
     }
 }
